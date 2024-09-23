@@ -34,7 +34,8 @@
 .hero {
 	color: #000000;
 	text-align: center;
-	background: linear-gradient(to bottom, $secondary-brand-color 0%, $secondary-brand-color 50%) no-repeat #a05fb7;
+	background: url("/images/bg_white_800.png") no-repeat center center;
+	background-size: cover;
 	padding-top: 50px;
 
 	p {
